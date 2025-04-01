@@ -26,3 +26,4 @@ const debonce =(func, delay = 1000) => {
         }, delay)
     }
 }
+
